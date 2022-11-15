@@ -1,1 +1,2 @@
 Adding some text for the Odin Project
+This is updated test to test hit and VSC
